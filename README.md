@@ -1,5 +1,5 @@
 
-# Serverless REST API
+# Serverless REST API - Pablo Luengo
 
 Este ejemplo demuestra cómo configurar un [Servicios Web RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services) que le permite crear, listar, obtener, actualizar y borrar listas de Tareas pendientes(ToDo). DynamoDB se utiliza para persistir los datos. 
 
