@@ -1,4 +1,6 @@
-service: serverless-rest-api-with-dynamodb
+org: pabloluengo
+app: todos-unir
+service: sls-rest-api
 
 frameworkVersion: ">=1.1.0"
 
